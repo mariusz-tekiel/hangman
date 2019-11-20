@@ -1,4 +1,4 @@
 # hangman
-Word Game in JS
+Popular Word Game written in JS.  
 <br>
-You can play on http://betways.site/js-games/HANGMAN-GAME/hangman.html
+<h2>You can play on http://betways.site/js-games/HANGMAN-GAME/hangman.html</h2>
