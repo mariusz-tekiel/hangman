@@ -1,2 +1,2 @@
-# strongman
+# hangman
 Word Game in JS 
